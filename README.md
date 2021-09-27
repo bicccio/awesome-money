@@ -1,2 +1,2 @@
 # awesome-money
-A curate list of place related to money
+A curated list of resources related to money.
